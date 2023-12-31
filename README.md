@@ -1,2 +1,2 @@
 # SPM
-This is about GIt &amp;github
+This is about Git and Github-Samir Oli
